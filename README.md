@@ -1,1 +1,7 @@
 # Apps-penjualan-motor
+
+Kelompok 2 mengenai aplikasi penjualan motor :
+1.	MUHAMMAD SADAM MAHENDRA (2019230044)
+2.	MALIK ABDUL AZIZ (2019230026)
+3.	FIRMANSAH (2019230019)
+4.	FERDI MAULANA AKBAR (2019230119)
